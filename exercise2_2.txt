@@ -1,1 +1,2 @@
 Hello Greg in Python's World! Update from GIT_exercise - local repo number 1.
+Next update according to task 2_8.
